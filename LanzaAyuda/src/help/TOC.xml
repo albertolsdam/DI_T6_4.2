@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toc version="1.0">
+  <tocitem text="Introducción" target="introduccion"/>
+  <tocitem text="Sobre la Aplicación" target="about"/>
+  <tocitem text="Partes que componen la aplicación">
+	<tocitem text="Menú Principal" target="menuprincipal"/>
+	<tocitem text="Reserva" target="reservas">
+		<tocitem text="Habitaciones" target="habitaciones"/>
+		<tocitem text="Salon Habana" target="salonhabana"/>
+	</tocitem>
+	<tocitem text="Información sobre la Base de Datos" target="basedatos"/>
+  </tocitem>
+  </toc>
